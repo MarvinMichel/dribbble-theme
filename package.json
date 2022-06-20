@@ -1,0 +1,39 @@
+{
+  "name": "dribbble-theme",
+  "displayName": "Dribbble Theme",
+  "description": "A lightmode theme, based on the Dribbble website",
+  "icon": "./images/icon.png",
+  "version": "0.0.1",
+  "publisher": "MarvinSernee",
+  "author": {
+    "name": "Marvin Sernee"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MarvinMichel/dribbble-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/MarvinMichel/dribbble-theme/issues"
+  },
+  "engines": {
+    "vscode": "^1.68.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Dribbble",
+    "Lightmode",
+    "Theme",
+    "Pink"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dribbble Theme",
+        "uiTheme": "vs",
+        "path": "./themes/dribbble-color-theme.json"
+      }
+    ]
+  }
+}
