@@ -21,8 +21,6 @@
 <img src="./images/preview_2.jpeg" />
 <img src="./images/preview_3.jpeg" />
 <br />
-<br />
-<br />
 <h2>Install</h2>
 
 ```
