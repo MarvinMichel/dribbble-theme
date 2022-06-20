@@ -2,12 +2,12 @@
     <img src="./images/icon.png" />
     Dribbble Theme
 </h1>
-<img src="https://img.shields.io/visual-studio-marketplace/d/marvinsernee.dribbble-theme?style=for-the-badge" />
-<img src="https://img.shields.io/visual-studio-marketplace/stars/marvinsernee.dribbble-theme?style=for-the-badge" />
-<img src="https://img.shields.io/visual-studio-marketplace/release-date/marvinsernee.dribbble-theme?style=for-the-badge" />
-<img src="https://img.shields.io/github/license/MarvinMichel/dribbble-theme?style=for-the-badge" />
-<br />
-<br />
+<div>
+    <img src="https://img.shields.io/visual-studio-marketplace/d/marvinsernee.dribbble-theme?style=for-the-badge" />
+    <img src="https://img.shields.io/visual-studio-marketplace/stars/marvinsernee.dribbble-theme?style=for-the-badge" />
+    <img src="https://img.shields.io/visual-studio-marketplace/release-date/marvinsernee.dribbble-theme?style=for-the-badge" />
+    <img src="https://img.shields.io/github/license/MarvinMichel/dribbble-theme?style=for-the-badge" />
+</div>
 <br />
 <br />
 <div style="display:flex;flex-direction:column;gap:2rem;align-items:center;">
