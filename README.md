@@ -12,9 +12,9 @@
 <br />
 <p>A lightmode theme, based on the <a href="https://dribbble.com/">Dribbble</a> website.</p>
 <br />
-<img src="./images/preview_1.jpeg" width="750" />
-<img src="./images/preview_2.jpeg" width="750" />
-<img src="./images/preview_3.jpeg" width="750" />
+<img src="./images/preview_1.png" width="750" />
+<img src="./images/preview_2.png" width="750" />
+<img src="./images/preview_3.png" width="750" />
 <br />
 <h2>Install</h2>
 
