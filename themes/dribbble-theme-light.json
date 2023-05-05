@@ -7,7 +7,7 @@
       "foreground": "#00b6e3"
     },
     "variable.constant": {
-      "foreground": "#66cc99"
+      "foreground": "#ea4c89"
     },
     "variable.defaultLibrary": {
       "foreground": "#0e0b22"
@@ -334,9 +334,10 @@
     },
     {
       "name": "js variable readwrite",
-      "scope": "variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
+      "scope": "meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
       "settings": {
-        "foreground": "#c142a0"
+        "fontStyle": "italic",
+        "foreground": "#ea4c89"
       }
     },
     {
@@ -398,7 +399,7 @@
       "name": "operator",
       "scope": "keyword.operator.delete",
       "settings": {
-        "foreground": "#ea4c89"
+        "foreground": "#c142a0"
       }
     },
     {
@@ -531,7 +532,7 @@
       "name": "Keywords",
       "scope": "keyword",
       "settings": {
-        "foreground": "#ea4c89"
+        "foreground": "#c142a0"
       }
     },
     {
@@ -654,6 +655,27 @@
     {
       "name": "Keyword Control",
       "scope": "keyword.control",
+      "settings": {
+        "foreground": "#c142a0"
+      }
+    },
+    {
+      "name": "Import Keyword",
+      "scope": ["keyword.control.import", "meta.import"],
+      "settings": {
+        "foreground": "#c142a0"
+      }
+    },
+    {
+      "name": "Module Import Keyword",
+      "scope": ["variable.other.readwrite"],
+      "settings": {
+        "foreground": "#ea4c89"
+      }
+    },
+    {
+      "name": "Typescript Types",
+      "scope": "storage.type.type",
       "settings": {
         "foreground": "#ea4c89"
       }
@@ -779,9 +801,9 @@
     },
     {
       "name": "Tags",
-      "scope": "entity.name.tag",
+      "scope": ["entity.name.tag", "support.class.component"],
       "settings": {
-        "foreground": "#c142a0"
+        "foreground": "#ea4c89"
       }
     },
     {
