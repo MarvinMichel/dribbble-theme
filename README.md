@@ -1,5 +1,5 @@
 <h1 style="display:flex;align-items:center;gap:1rem;">
-    <img src="./images/icon.png" />
+    <img src="./images/icon.png" width="24" />
     Dribbble Theme
 </h1>
 <div>
@@ -10,16 +10,11 @@
 </div>
 <br />
 <br />
-<div style="display:flex;flex-direction:column;gap:2rem;align-items:center;">
-    <img src="./images/logo.png" />
-    <p>A lightmode theme, based on the <a href="https://dribbble.com/">Dribbble</a> website.</p>
-</div>
+<p>A lightmode theme, based on the <a href="https://dribbble.com/">Dribbble</a> website.</p>
 <br />
-<br />
-<br />
-<img src="./images/preview_1.jpeg" />
-<img src="./images/preview_2.jpeg" />
-<img src="./images/preview_3.jpeg" />
+<img src="./images/preview_1.jpeg" width="750" />
+<img src="./images/preview_2.jpeg" width="750" />
+<img src="./images/preview_3.jpeg" width="750" />
 <br />
 <h2>Install</h2>
 
