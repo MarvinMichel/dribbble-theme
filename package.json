@@ -30,9 +30,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Dribbble Theme",
+        "label": "Dribbble Theme - Light",
         "uiTheme": "vs",
-        "path": "./themes/dribbble-color-theme.json"
+        "path": "./themes/dribbble-theme-light.json"
       }
     ]
   }
