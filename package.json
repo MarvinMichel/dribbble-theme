@@ -3,7 +3,7 @@
   "displayName": "Dribbble Theme",
   "description": "A lightmode theme, based on the Dribbble website",
   "icon": "./images/icon.png",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "MarvinSernee",
   "author": {
     "name": "Marvin Sernee"
